@@ -1,0 +1,122 @@
+[
+    {
+      "question": "What does CI/CD stand for?",
+      "options": ["Continuous Integration/Continuous Delivery (or Deployment)", "Code Integration/Code Deployment", "Central Integration/Central Database", "Client Integration/Client Deployment"],
+      "answer": "Continuous Integration/Continuous Delivery (or Deployment)",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the primary purpose of Git?",
+      "options": ["Version control", "Code compilation", "Database management", "Server administration"],
+      "answer": "Version control",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which Git command is used to create a new branch?",
+      "options": ["git branch", "git checkout", "git commit", "git merge"],
+      "answer": "git branch",
+      "difficulty": "Normal"
+    },
+      {
+      "question": "What is a common use of a 'pull request' in Git workflows?",
+      "options": ["To propose changes to a repository and review them before merging", "To download the latest version of a repository", "To create a backup of a repository", "To delete a branch"],
+      "answer": "To propose changes to a repository and review them before merging",
+      "difficulty": "Normal"
+    },
+      {
+      "question": "What is the role of a web hosting service?",
+      "options": ["To store and serve website files on a server", "To design website layouts", "To write website code", "To manage databases"],
+      "answer": "To store and serve website files on a server",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does CI stand for in DevOps?",
+      "options": ["Continuous Integration", "Continuous Improvement", "Code Integration", "Code Improvement"],
+      "answer": "Continuous Integration",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does CD stand for in DevOps (two common meanings)?",
+      "options": ["Continuous Delivery / Continuous Deployment", "Code Delivery / Code Deployment", "Continuous Design / Code Design", "Code Design / Continuous Development"],
+      "answer": "Continuous Delivery / Continuous Deployment",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does IaC stand for?",
+      "options": ["Infrastructure as Code", "Integration as Code", "Interface as Code", "Implementation as Code"],
+      "answer": "Infrastructure as Code",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does Git stand for?",
+      "options": ["Global Information Tracker", "Global Integration Tool", "General Information Tracker", "General Integration Tool"],
+      "answer": "Global Information Tracker",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does VCS stand for?",
+      "options": ["Version Control System", "Virtual Control System", "Version Configuration System", "Virtual Configuration System"],
+      "answer": "Version Control System",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does SCM stand for?",
+      "options": ["Source Code Management", "System Configuration Management", "Software Configuration Management", "Software Code Management"],
+      "answer": "Source Code Management",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does AWS stand for?",
+      "options": ["Amazon Web Services", "Advanced Web Services", "Amazon Website Services", "Advanced Website Services"],
+      "answer": "Amazon Web Services",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does GCP stand for?",
+      "options": ["Google Cloud Platform", "Global Cloud Platform", "Google Computing Platform", "Global Computing Platform"],
+      "answer": "Google Cloud Platform",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does Azure stand for (in the context of cloud computing)?",
+      "options": ["Microsoft Azure", "Microsoft Azura", "Microsoft Azur", "Microsoft Azurea"],
+      "answer": "Microsoft Azure",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does Docker stand for?",
+      "options": ["It's a brand name, not an acronym", "Distributed Operating Container Kernel Execution Runtime", "Data Operating Container Kernel Execution Runtime", "Distributed Object Container Kernel Execution Runtime"],
+      "answer": "It's a brand name, not an acronym",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does Kubernetes often get shortened to?",
+      "options": ["K8s", "Kube", "Kbt", "Krn"],
+      "answer": "K8s",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does API stand for?",
+      "options": ["Application Programming Interface", "Advanced Programming Interface", "Application Protocol Interface", "Advanced Protocol Interface"],
+      "answer": "Application Programming Interface",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What does REST stand for?",
+      "options": ["Representational State Transfer", "Representational System Transfer", "Resource State Transfer", "Resource System Transfer"],
+      "answer": "Representational State Transfer",
+      "difficulty": "Normal"
+    },
+    {
+        "question": "What does YAML stand for?",
+        "options": ["YAML Ain't Markup Language", "Yet Another Markup Language", "YAML Another Markup Language", "Yet Another Modeling Language"],
+        "answer": "YAML Ain't Markup Language",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does JSON stand for?",
+        "options": ["JavaScript Object Notation", "Java Simple Object Notation", "JavaScript Oriented Notation", "Java Simple Oriented Notation"],
+        "answer": "JavaScript Object Notation",
+        "difficulty": "Normal"
+    }
+  ]

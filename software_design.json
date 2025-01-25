@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does SOLID stand for in software design?",
+    "options": ["Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion", "Simple Object Logic Interface Design", "Systematic Object Layout in Development", "Structured Object Linking Interface Definition"],
+    "answer": "Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which SOLID principle states that a class should have only one reason to change?",
+    "options": ["Single Responsibility Principle", "Open/Closed Principle", "Liskov Substitution Principle", "Interface Segregation Principle"],
+    "answer": "Single Responsibility Principle",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a common use of the Factory design pattern?",
+    "options": ["To create objects without specifying their concrete classes", "To manage object state", "To define object relationships", "To handle events"],
+    "answer": "To create objects without specifying their concrete classes",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of the Singleton design pattern?",
+    "options": ["To ensure that a class has only one instance and provides a global point of access to it", "To create multiple instances of a class", "To manage object dependencies", "To define object hierarchies"],
+    "answer": "To ensure that a class has only one instance and provides a global point of access to it",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which design pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable?",
+    "options": ["Strategy", "Observer", "Factory", "Singleton"],
+    "answer": "Strategy",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the main goal of the Open/Closed Principle?",
+    "options": ["Software entities should be open for extension, but closed for modification.", "Software entities should be closed for extension, but open for modification.", "Software entities should be open for both extension and modification.", "Software entities should be closed for both extension and modification."],
+    "answer": "Software entities should be open for extension, but closed for modification.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "The Liskov Substitution Principle states that:",
+    "options": ["Objects of a superclass should be replaceable with objects of its subclasses without altering the correctness of the program.", "Objects of a subclass should be replaceable with objects of its superclass without altering the correctness of the program.", "Subclasses should not exist.", "Superclasses should not exist."],
+    "answer": "Objects of a superclass should be replaceable with objects of its subclasses without altering the correctness of the program.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "The Interface Segregation Principle advocates for:",
+    "options": ["Many specific interfaces are better than one general-purpose interface.", "One general-purpose interface is better than many specific interfaces.", "Interfaces should not be used.", "Classes should not implement interfaces."],
+    "answer": "Many specific interfaces are better than one general-purpose interface.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "The Dependency Inversion Principle suggests:",
+    "options": ["High-level modules should not depend on low-level modules. Both should depend on abstractions.", "Low-level modules should not depend on high-level modules. Both should depend on abstractions.", "High-level modules should depend on low-level modules.", "Low-level modules should depend on high-level modules."],
+    "answer": "High-level modules should not depend on low-level modules. Both should depend on abstractions.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which design pattern promotes loose coupling by defining a one-to-many dependency between objects?",
+    "options": ["Observer", "Factory", "Singleton", "Strategy"],
+    "answer": "Observer",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which pattern is used to provide a simplified interface to a complex subsystem?",
+    "options": ["Facade", "Adapter", "Decorator", "Composite"],
+    "answer": "Facade",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which pattern allows objects with incompatible interfaces to work together?",
+    "options": ["Adapter", "Facade", "Decorator", "Composite"],
+    "answer": "Adapter",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which pattern dynamically adds responsibilities to an object?",
+    "options": ["Decorator", "Adapter", "Facade", "Composite"],
+    "answer": "Decorator",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which pattern composes objects into tree structures to represent part-whole hierarchies?",
+    "options": ["Composite", "Decorator", "Facade", "Adapter"],
+    "answer": "Composite",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the primary purpose of design patterns in software development?",
+    "options": ["To provide reusable solutions to common problems.", "To enforce specific coding styles.", "To optimize code performance.", "To create complex software architectures."],
+    "answer": "To provide reusable solutions to common problems.",
+    "difficulty": "Normal"
+  }
+]

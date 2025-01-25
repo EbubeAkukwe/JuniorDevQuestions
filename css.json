@@ -1,0 +1,116 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Creative Style System", "Computer Style Syntax", "Colorful Style Script"],
+    "answer": "Cascading Style Sheets",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property controls the text color?",
+    "options": ["color", "text-color", "font-color", "foreground-color"],
+    "answer": "color",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property removes the element from the layout including screen reader's?",
+    "options": ["visibility: hidden", "display: none", "hide: true", "opacity: 0"],
+    "answer": "display: none",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property controls the font size?",
+    "options": ["font-size", "text-size", "size", "font"],
+    "answer": "font-size",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property is used for adding space between lines of text?",
+    "options": ["line-height", "text-spacing", "line-spacing", "vertical-align"],
+    "answer": "line-height",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "How do you select all paragraphs with class 'intro'?",
+    "options": [".intro", "#intro", "p.intro", "p #intro"],
+    "answer": "p.intro",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property controls the element's background color?",
+    "options": ["background-color", "bg-color", "color-background", "background"],
+    "answer": "background-color",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property is used for adding rounded corners to an element?",
+    "options": ["border-radius", "corner-radius", "border-round", "rounded-corners"],
+    "answer": "border-radius",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property controls the spacing between elements?",
+    "options": ["margin", "padding", "space", "spacing"],
+    "answer": "margin",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property adds space *within* an element?",
+    "options": ["padding", "margin", "inner-spacing", "content-spacing"],
+    "answer": "padding",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which CSS property is used to change the font family?",
+    "options": ["font-family", "font", "text-font", "font-type"],
+    "answer": "font-family",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does 'box-sizing: border-box;' do?",
+    "options": ["Includes padding and border in the element's total width and height", "Excludes padding and border from the element's total width and height", "Sets the border style", "Sets the box shadow"],
+    "answer": "Includes padding and border in the element's total width and height",
+    "difficulty": "Normal"
+  },
+    {
+        "question": "Which CSS property is used to create a shadow around an element?",
+        "options": ["box-shadow", "text-shadow", "shadow", "element-shadow"],
+        "answer": "box-shadow",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "Which keyword is used to position an element relative to its normal position?",
+        "options": ["relative", "absolute", "fixed", "static"],
+        "answer": "relative",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "Which keyword is used to position an element relative to the viewport?",
+        "options": ["fixed", "absolute", "relative", "sticky"],
+        "answer": "fixed",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "Which CSS property is used to control the layout of flexbox items along the main axis?",
+        "options": ["justify-content", "align-items", "flex-direction", "flex-wrap"],
+        "answer": "justify-content",
+        "difficulty": "Normal"
+    },
+    {
+      "question": "How do you select all p elements inside a div element?",
+      "options": ["div p", "div > p", "div + p", "div.p"],
+      "answer": "div p",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What's the correct order of CSS specificity(Highest to Lowest)?",
+      "options": ["#id > !important > .class", "!important >.class > #id", "!important > #id > .class", ".class > #id > !important"],
+      "answer": "!important > #id > .class",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which CSS unit is relative to the current font size?",
+      "options": ["px", "em", "vh", "vw"],
+      "answer": "em",
+      "difficulty": "Normal"
+    }
+]

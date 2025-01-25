@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["Hypertext Transfer Protocol", "Hypertext Text Page", "High-Tech Transfer Process", "Home Text Transfer Protocol"],
+    "answer": "Hypertext Transfer Protocol",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a RESTful API?",
+    "options": ["An architectural style for building web services that uses HTTP methods", "A database query language", "A programming language", "A type of web server"],
+    "answer": "An architectural style for building web services that uses HTTP methods",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which header is used for CORS pre-flight request?",
+    "options": ["options", "CORS", "access", "content sharing protocol"],
+    "answer": "options",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which HTTP method is typically used to retrieve data?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "GET",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of HTTP status codes?",
+    "options": ["To indicate the result of an HTTP request", "To encrypt data", "To compress data", "To authenticate users"],
+    "answer": "To indicate the result of an HTTP request",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Instruction", "Application Process Integration", "Automated Program Interaction"],
+    "answer": "Application Programming Interface",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which HTTP method is typically used to create new data?",
+    "options": ["POST", "GET", "PUT", "PATCH"],
+    "answer": "POST",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which HTTP method is typically used to update existing data?",
+    "options": ["PUT", "PATCH", "POST", "GET"],
+    "answer": "PUT",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which HTTP method is typically used to partially update existing data?",
+    "options": ["PATCH", "PUT", "POST", "GET"],
+    "answer": "PATCH",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which HTTP method is typically used to delete data?",
+    "options": ["DELETE", "POST", "PUT", "PATCH"],
+    "answer": "DELETE",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of HTTP headers?",
+    "options": ["To provide additional information about the request or response", "To encrypt the data being transmitted", "To compress the data being transmitted", "To authenticate the user"],
+    "answer": "To provide additional information about the request or response",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is a common HTTP status code indicating success?",
+    "options": ["200 OK", "404 Not Found", "500 Internal Server Error", "301 Moved Permanently"],
+    "answer": "200 OK",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a common HTTP status code indicating a client error (e.g., resource not found)?",
+    "options": ["404 Not Found", "200 OK", "500 Internal Server Error", "301 Moved Permanently"],
+    "answer": "404 Not Found",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a common HTTP status code indicating a server error?",
+    "options": ["500 Internal Server Error", "200 OK", "404 Not Found", "301 Moved Permanently"],
+    "answer": "500 Internal Server Error",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between HTTP and HTTPS?",
+    "options": ["HTTPS uses encryption (SSL/TLS)", "HTTPS is faster than HTTP", "HTTP uses encryption (SSL/TLS)", "There is no difference"],
+    "answer": "HTTPS uses encryption (SSL/TLS)",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is a URL?",
+    "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Resource Link", "Universal Resource Link"],
+    "answer": "Uniform Resource Locator",
+    "difficulty": "Normal"
+  }
+]

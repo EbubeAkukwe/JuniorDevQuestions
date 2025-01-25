@@ -1,0 +1,194 @@
+[
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Program Instruction", "Automated Program Interface", "Application Process Integration"],
+    "answer": "Application Programming Interface",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does DRY stand for?",
+    "options": ["Don't Repeat Yourself", "Do Repeat Yourself", "Document Relevant Year", "Data Recovery Yield"],
+    "answer": "Don't Repeat Yourself",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does CRUD stand for?",
+    "options": ["Create, Read, Update, Delete", "Compile, Run, Update, Debug", "Connect, Retrieve, Update, Disconnect", "Code, Review, Upload, Deploy"],
+    "answer": "Create, Read, Update, Delete",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What does WYSIWYG stand for?",
+    "options": ["What You See Is What You Get", "What You Send Is What You Get", "Web Yielding System Is Web Graphics", "Web You Search Is Web Guide"],
+    "answer": "What You See Is What You Get",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What does TDD stand for?",
+    "options": ["Test-Driven Development", "Time-Driven Development", "Task-Driven Design", "Type-Driven Design"],
+    "answer": "Test-Driven Development",
+    "difficulty": "Normal"
+  },
+    {
+        "question": "What does TSC stand for (in the context of TypeScript)?",
+        "options": ["TypeScript Compiler", "TypeScript Core", "TypeScript Control", "TypeScript Coding"],
+        "answer": "TypeScript Compiler",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "Structured Question Language", "System Query Language"],
+        "answer": "Structured Query Language",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does HTMX stand for?",
+        "options": ["Hypertext Markup Extensions", "Hypertext Markup Extra", "Hypertext Media Extensions", "Hypertext Media Extra"],
+        "answer": "Hypertext Markup Extensions",
+        "difficulty": "Normal"
+    },
+        {
+        "question": "What does CDN stand for?",
+        "options": ["Content Delivery Network", "Content Distribution Network", "Code Delivery Network", "Code Distribution Network"],
+        "answer": "Content Delivery Network",
+        "difficulty": "Normal"
+    },
+        {
+        "question": "What does CORS stand for?",
+        "options": ["Cross-Origin Resource Sharing", "Cross-Object Resource Sharing", "Cross-Origin Request Security", "Cross-Object Request Security"],
+        "answer": "Cross-Origin Resource Sharing",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does ACID stand for in database transactions?",
+        "options": ["Atomicity, Consistency, Isolation, Durability", "Accuracy, Consistency, Integrity, Durability", "Atomicity, Concurrency, Integrity, Durability", "Accuracy, Concurrency, Isolation, Durability"],
+        "answer": "Atomicity, Consistency, Isolation, Durability",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does CSP stand for (in web security)?",
+        "options": ["Content Security Policy", "Content Service Provider", "Cross-Site Protection", "Cross-Site Protocol"],
+        "answer": "Content Security Policy",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does REST stand for?",
+        "options": ["Representational State Transfer", "Representational System Transfer", "Resourceful State Transfer", "Resourceful System Transfer"],
+        "answer": "Representational State Transfer",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does DOM stand for?",
+        "options": ["Document Object Model", "Data Object Model", "Document Oriented Model", "Data Oriented Model"],
+        "answer": "Document Object Model",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does UI stand for?",
+        "options": ["User Interface", "User Interaction", "Universal Interface", "Universal Interaction"],
+        "answer": "User Interface",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does UX stand for?",
+        "options": ["User Experience", "User Extension", "Universal Experience", "Universal Extension"],
+        "answer": "User Experience",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does MVP stand for (in product development)?",
+        "options": ["Minimum Viable Product", "Most Valuable Player", "Minimum Valuable Product", "Most Viable Process"],
+        "answer": "Minimum Viable Product",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does SaaS stand for?",
+        "options": ["Software as a Service", "System as a Service", "Software as a Solution", "System as a Solution"],
+        "answer": "Software as a Service",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does PaaS stand for?",
+        "options": ["Platform as a Service", "Process as a Service", "Platform as a Solution", "Process as a Solution"],
+        "answer": "Platform as a Service",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does Kubernetes often get shortened to?",
+        "options": ["K8s", "Kube", "Kbt", "Krn"],
+        "answer": "K8s",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does YAML stand for?",
+        "options": ["YAML Ain't Markup Language", "Yet Another Markup Language", "YAML Another Markup Language", "Yet Another Modeling Language"],
+        "answer": "YAML Ain't Markup Language",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does JSON stand for?",
+        "options": ["JavaScript Object Notation", "Java Simple Object Notation", "JavaScript Oriented Notation", "Java Simple Oriented Notation"],
+        "answer": "JavaScript Object Notation",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What does CI stand for in DevOps?",
+        "options": ["Continuous Integration", "Continuous Improvement", "Code Integration", "Code Improvement"],
+        "answer": "Continuous Integration",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does CD stand for in DevOps (two common meanings)?",
+        "options": ["Continuous Delivery / Continuous Deployment", "Code Delivery / Code Deployment", "Continuous Design / Code Design", "Code Design / Continuous Development"],
+        "answer": "Continuous Delivery / Continuous Deployment",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does IaC stand for?",
+        "options": ["Infrastructure as Code", "Integration as Code", "Interface as Code", "Implementation as Code"],
+        "answer": "Infrastructure as Code",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does Git stand for?",
+        "options": ["Global Information Tracker", "Global Integration Tool", "General Information Tracker", "General Integration Tool"],
+        "answer": "Global Information Tracker",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does VCS stand for?",
+        "options": ["Version Control System", "Virtual Control System", "Version Configuration System", "Virtual Configuration System"],
+        "answer": "Version Control System",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does SCM stand for?",
+        "options": ["Source Code Management", "System Configuration Management", "Software Configuration Management", "Software Code Management"],
+        "answer": "Source Code Management",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does AWS stand for?",
+        "options": ["Amazon Web Services", "Advanced Web Services", "Amazon Website Services", "Advanced Website Services"],
+        "answer": "Amazon Web Services",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does GCP stand for?",
+        "options": ["Google Cloud Platform", "Global Cloud Platform", "Google Computing Platform", "Global Computing Platform"],
+        "answer": "Google Cloud Platform",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does Docker stand for?",
+        "options": ["It's a brand name, not an acronym", "Distributed Operating Container Kernel Execution Runtime", "Data Operating Container Kernel Execution Runtime", "Distributed Object Container Kernel Execution Runtime"],
+        "answer": "It's a brand name, not an acronym",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does Kubernetes often get shortened to?",
+        "options": ["K8s", "Kube", "Kbt", "Krn"],
+        "answer": "K8s",
+        "difficulty": "Normal"
+      }
+]

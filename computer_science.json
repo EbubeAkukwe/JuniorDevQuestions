@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is an algorithm?",
+    "options": ["A set of well-defined instructions for solving a problem", "A computer program", "A programming language", "A data structure"],
+    "answer": "A set of well-defined instructions for solving a problem",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "answer": "Central Processing Unit",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is an operating system?",
+    "options": ["Software that manages computer hardware and software resources", "A programming language", "A type of computer hardware", "A database management system"],
+    "answer": "Software that manages computer hardware and software resources",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is the difference between hardware and software?",
+    "options": ["Hardware is physical components, software is programs and data", "Hardware is programs and data, software is physical components", "Hardware is input, software is output", "There is no difference"],
+    "answer": "Hardware is physical components, software is programs and data",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is Big O notation used for?",
+    "options": ["Describing the performance or complexity of an algorithm", "Writing code", "Designing user interfaces", "Managing databases"],
+    "answer": "Describing the performance or complexity of an algorithm",
+    "difficulty": "Normal"
+  },
+    {
+        "question": "What is the primary function of RAM (Random Access Memory)?",
+        "options": ["To store data that the CPU is actively using", "To permanently store data", "To manage network connections", "To control input/output devices"],
+        "answer": "To store data that the CPU is actively using",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the purpose of a compiler?",
+        "options": ["To translate source code into machine code", "To execute code directly", "To debug code", "To manage memory"],
+        "answer": "To translate source code into machine code",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the difference between compiled and interpreted languages?",
+        "options": ["Compiled languages are translated into machine code before execution, interpreted languages are executed line by line.", "Interpreted languages are translated into machine code before execution, compiled languages are executed line by line.", "Compiled languages are faster than interpreted languages.", "There is no difference."],
+        "answer": "Compiled languages are translated into machine code before execution, interpreted languages are executed line by line.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is a database?",
+        "options": ["An organized collection of structured information, or data, typically stored electronically in a computer system.", "A programming language.", "A type of computer hardware.", "A network protocol."],
+        "answer": "An organized collection of structured information, or data, typically stored electronically in a computer system.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the purpose of version control systems (like Git)?",
+        "options": ["To track changes to code and allow collaboration among developers.", "To compile code.", "To deploy applications.", "To manage databases."],
+        "answer": "To track changes to code and allow collaboration among developers.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is a network protocol?",
+        "options": ["A set of rules that govern communication between devices on a network.", "A type of network hardware.", "A network cable.", "A network operating system."],
+        "answer": "A set of rules that govern communication between devices on a network.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is an IP address?",
+        "options": ["A numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.", "A type of network cable.", "A network protocol.", "A network security measure."],
+        "answer": "A numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the difference between client-side and server-side programming?",
+        "options": ["Client-side code runs in the user's browser, server-side code runs on a server.", "Server-side code runs in the user's browser, client-side code runs on a server.", "Client-side is for databases, server-side is for user interfaces.", "There is no difference."],
+        "answer": "Client-side code runs in the user's browser, server-side code runs on a server.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is cloud computing?",
+        "options": ["The on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.", "Using a local server for all computing needs.", "Using only physical hardware for computing.", "A type of programming language."],
+        "answer": "The on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the purpose of encryption?",
+        "options": ["To convert data into a code to prevent unauthorized access.", "To compress data for storage.", "To transmit data faster over networks.", "To organize data in a database."],
+        "answer": "To convert data into a code to prevent unauthorized access.",
+        "difficulty": "Normal"
+    }
+]

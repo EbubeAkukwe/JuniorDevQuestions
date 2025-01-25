@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does IP stand for?",
+    "options": ["Internet Protocol", "Internal Protocol", "Interconnected Protocol", "Integrated Process"],
+    "answer": "Internet Protocol",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of DNS?",
+    "options": ["To translate domain names to IP addresses", "To manage network traffic", "To secure network connections", "To store website files"],
+    "answer": "To translate domain names to IP addresses",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a port in networking?",
+    "options": ["A communication endpoint", "A network cable", "A network device", "A network protocol"],
+    "answer": "A communication endpoint",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which port is commonly used for HTTP traffic?",
+    "options": ["80", "21", "25", "443"],
+    "answer": "80",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the primary function of TCP?",
+    "options": ["Provides reliable, ordered, and error-checked delivery of data", "Provides fast, but unreliable delivery of data", "Manages IP addresses", "Routes network traffic"],
+    "answer": "Provides reliable, ordered, and error-checked delivery of data",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the primary function of UDP?",
+    "options": ["Provides fast, but unreliable delivery of data", "Provides reliable, ordered, and error-checked delivery of data", "Manages IP addresses", "Routes network traffic"],
+    "answer": "Provides fast, but unreliable delivery of data",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does a subnet mask do?",
+    "options": ["Divides an IP address into network and host portions", "Encrypts network traffic", "Routes network packets", "Manages DNS records"],
+    "answer": "Divides an IP address into network and host portions",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of a router?",
+    "options": ["To forward network packets between networks", "To connect devices within a local network", "To convert analog signals to digital signals", "To block unwanted network traffic"],
+    "answer": "To forward network packets between networks",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a MAC address?",
+    "options": ["A unique identifier for a network interface controller", "An IP address", "A domain name", "A port number"],
+    "answer": "A unique identifier for a network interface controller",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between IPv4 and IPv6?",
+    "options": ["IPv6 uses 128-bit addresses, IPv4 uses 32-bit addresses", "IPv4 uses 128-bit addresses, IPv6 uses 32-bit addresses", "IPv6 is more secure than IPv4", "IPv4 is more secure than IPv6"],
+    "answer": "IPv6 uses 128-bit addresses, IPv4 uses 32-bit addresses",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is a firewall?",
+    "options": ["A network security system that monitors and controls incoming and outgoing network traffic", "A device that connects networks", "A protocol for transferring files", "A type of network cable"],
+    "answer": "A network security system that monitors and controls incoming and outgoing network traffic",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What does DHCP stand for?",
+    "options": ["Dynamic Host Configuration Protocol", "Dynamic Hypertext Configuration Protocol", "Data Host Configuration Protocol", "Data Hypertext Configuration Protocol"],
+    "answer": "Dynamic Host Configuration Protocol",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is the purpose of a VPN?",
+    "options": ["To create a secure connection over a public network", "To increase internet speed", "To block viruses", "To manage network traffic"],
+    "answer": "To create a secure connection over a public network",
+    "difficulty": "Normal"
+  },
+        {
+    "question": "What is the loopback address (typically)?",
+    "options": ["127.0.0.1", "192.168.0.1", "8.8.8.8", "0.0.0.0"],
+    "answer": "127.0.0.1",
+    "difficulty": "Normal"
+  },
+        {
+    "question": "What is the function of ICMP?",
+    "options": ["Used for network diagnostics and error reporting (e.g., ping)", "Used for transferring files", "Used for sending emails", "Used for web browsing"],
+    "answer": "Used for network diagnostics and error reporting (e.g., ping)",
+    "difficulty": "Normal"
+  }
+]

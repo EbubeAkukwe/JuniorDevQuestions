@@ -1,0 +1,99 @@
+[
+  {
+    "question": "Which SQL keyword is used to retrieve data from a database?",
+    "options": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+    "answer": "SELECT",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which statement about table partitioning is false?",
+    "options": ["It improves query performance", "It helps with data archival", "It automatically provides acid", "It reduces data redundancy"],
+    "answer": "It automatically provides acid",
+    "difficulty": "Normal"
+  }
+  ,
+  {
+    "question": "What does the `WHERE` clause do in a SQL query?",
+    "options": ["Filters the results based on a condition", "Sorts the results", "Groups the results", "Joins tables"],
+    "answer": "Filters the results based on a condition",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which SQL command is used to add new rows to a table?",
+    "options": ["INSERT INTO", "UPDATE", "CREATE TABLE", "ALTER TABLE"],
+    "answer": "INSERT INTO",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of the `GROUP BY` clause in SQL?",
+    "options": ["To group rows with the same values in specified columns into summary rows", "To sort the result-set", "To filter rows based on a condition", "To join tables"],
+    "answer": "To group rows with the same values in specified columns into summary rows",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which keyword is used to sort the result-set in ascending order?",
+    "options": ["ASC", "DESC", "SORT", "ORDER"],
+    "answer": "ASC",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which SQL keyword is used to remove rows from a table?",
+    "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+    "answer": "DELETE",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between `DELETE` and `TRUNCATE`?",
+    "options": ["`DELETE` removes rows individually and can be rolled back, `TRUNCATE` removes all rows quickly and cannot be rolled back.", "`DELETE` removes all rows quickly and cannot be rolled back, `TRUNCATE` removes rows individually and can be rolled back.", "They are functionally the same.", "`DELETE` is used for tables, `TRUNCATE` is for databases."],
+    "answer": "`DELETE` removes rows individually and can be rolled back, `TRUNCATE` removes all rows quickly and cannot be rolled back.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which SQL keyword is used to modify the structure of an existing table?",
+    "options": ["ALTER TABLE", "UPDATE", "MODIFY TABLE", "CHANGE TABLE"],
+    "answer": "ALTER TABLE",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which SQL clause is used to combine rows from two or more tables based on a related column?",
+    "options": ["JOIN", "UNION", "MERGE", "COMBINE"],
+    "answer": "JOIN",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which type of JOIN returns all rows from the left table and matching rows from the right table?",
+    "options": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL OUTER JOIN"],
+    "answer": "LEFT JOIN",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of the `UNION` operator in SQL?",
+    "options": ["To combine the result-sets of two or more SELECT statements", "To join tables based on a condition", "To filter rows based on a condition", "To sort the result-set"],
+    "answer": "To combine the result-sets of two or more SELECT statements",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a primary key in a database table?",
+    "options": ["A unique identifier for each row in a table", "A foreign key referencing another table", "A column used for sorting", "A column used for filtering"],
+    "answer": "A unique identifier for each row in a table",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is a foreign key in a database table?",
+    "options": ["A key that refers to the primary key of another table", "The main identifier for a row in a table", "A key used for indexing", "A key used for sorting"],
+    "answer": "A key that refers to the primary key of another table",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is the purpose of an index in a database?",
+    "options": ["To speed up data retrieval", "To enforce data integrity", "To define table relationships", "To manage user permissions"],
+    "answer": "To speed up data retrieval",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "Which SQL function is used to count the number of rows in a table?",
+    "options": ["COUNT()", "SUM()", "AVG()", "MAX()"],
+    "answer": "COUNT()",
+    "difficulty": "Normal"
+  }
+]

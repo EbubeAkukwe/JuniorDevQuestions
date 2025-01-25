@@ -1,0 +1,116 @@
+[
+  {
+    "question": "What is the primary benefit of using TypeScript?",
+    "options": ["Static typing", "Dynamic typing", "Faster runtime performance", "Automatic garbage collection"],
+    "answer": "Static typing",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which keyword is used to define an interface in TypeScript?",
+    "options": ["interface", "type", "class", "def"],
+    "answer": "interface",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which is not a TypeScript primitive type?",
+    "options": ["string", "number", "integer", "boolean"],
+    "answer": "integer",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of the `AS` keyword in TypeScript?",
+    "options": ["cast the variable as a given type", "change the value of the variable", "create a new type alias", "none of the above"],
+    "answer": "cast the variable as a given type",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of generics in TypeScript?",
+    "options": ["To create reusable components that can work with multiple types", "To define constants", "To handle errors", "To manage state"],
+    "answer": "To create reusable components that can work with multiple types",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between `interface` and `type` in TypeScript?",
+    "options": ["Interfaces can be extended, types can create union types.", "Types can be extended, interfaces cannot.", "They are completely interchangeable.", "Interfaces are for primitive types, types are for objects."],
+    "answer": "Interfaces can be extended, types can create union types.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which symbol is used for optional properties in TypeScript interfaces?",
+    "options": ["?", ":", "!", "&"],
+    "answer": "?",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "How do you define a union type in TypeScript?",
+    "options": ["Using the `|` (pipe) symbol", "Using the `&` (ampersand) symbol", "Using the `union` keyword", "Using the `or` keyword"],
+    "answer": "Using the `|` (pipe) symbol",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of the `readonly` modifier in TypeScript?",
+    "options": ["To prevent modification of a property after it's initialized", "To make a property optional", "To define a constant", "To make a property private"],
+    "answer": "To prevent modification of a property after it's initialized",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a tuple in TypeScript?",
+    "options": ["An array with a fixed number of elements of potentially different types", "A list of key-value pairs", "A collection of unique values", "A function that returns multiple values"],
+    "answer": "An array with a fixed number of elements of potentially different types",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of enums in TypeScript?",
+    "options": ["To define a set of named constants", "To define interfaces", "To create reusable components", "To handle errors"],
+    "answer": "To define a set of named constants",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between `any` and `unknown` in TypeScript?",
+    "options": ["`unknown` forces type checking, `any` bypasses it.", "`any` forces type checking, `unknown` bypasses it.", "They are interchangeable.", "`any` is used for primitive types, `unknown` is for objects."],
+    "answer": "`unknown` forces type checking, `any` bypasses it.",
+    "difficulty": "Cracked"
+  },
+  {
+    "question": "What is a type assertion in TypeScript?",
+    "options": ["A way to tell the compiler the type of a value when it cannot infer it", "A way to define a new type", "A way to handle errors", "A way to define a constant"],
+    "answer": "A way to tell the compiler the type of a value when it cannot infer it",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What does the `!` (non-null assertion operator) do in TypeScript?",
+    "options": ["Asserts that a value is not null or undefined", "Checks if a value is null or undefined", "Throws an error if a value is null or undefined", "Assigns a default value if a value is null or undefined"],
+    "answer": "Asserts that a value is not null or undefined",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What are decorators in TypeScript used for?",
+    "options": ["To add metadata or behavior to classes, methods, or properties", "To define types", "To handle errors", "To manage state"],
+    "answer": "To add metadata or behavior to classes, methods, or properties",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What are mapped types in TypeScript?",
+    "options": ["A way to create new types by transforming existing types", "A way to define interfaces", "A way to handle errors", "A way to define constants"],
+    "answer": "A way to create new types by transforming existing types",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is the purpose of namespaces (or modules in newer TypeScript versions)?",
+    "options": ["To organize code and avoid naming collisions", "To define types", "To handle errors", "To create reusable components"],
+    "answer": "To organize code and avoid naming collisions",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which is the correct way to type an object where all keys are strings and all values are of type any?",
+    "options": ["object: any", "record<string, any>", "{[key: any]: string}", "string[]"],
+    "answer": "record<string, any>",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "To tell Typescript that a value cannot be null or undefined, what character do you use?",
+    "options": ["!", "$", "?", "#"],
+    "answer": "!",
+    "difficulty": "Normal"
+  }
+]

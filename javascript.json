@@ -1,0 +1,134 @@
+[
+    {
+        "question": "What does `NaN` stand for in JavaScript?",
+        "options": ["Not a Number", "Null and Negative", "No Action Needed", "New and Null"],
+        "answer": "Not a Number",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "Which operator is used for strict equality in JavaScript?",
+        "options": ["==", "=", "===", "!="],
+        "answer": "===",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What is a closure in JavaScript?",
+        "options": ["A function inside another function that has access to the outer function's variables", "A way to define object properties", "A type of loop", "A method for handling errors"],
+        "answer": "A function inside another function that has access to the outer function's variables",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What is the difference between `let`, `const`, and `var`?",
+        "options": ["`var` is function scoped, `let` and `const` are block scoped. `const` cannot be reassigned.", "`let` is function scoped, `var` and `const` are block scoped. `const` can be reassigned.", "They are interchangeable.", "`const` is function scoped, `let` and `var` are block scoped. `let` cannot be reassigned."],
+        "answer": "`var` is function scoped, `let` and `const` are block scoped. `const` cannot be reassigned.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What will `console.log(1 + '1')` output?",
+        "options": ["2", "11", "Error", "NaN"],
+        "answer": "11",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What does `NaN` stand for in JavaScript?",
+        "options": ["Not a Number", "Null and Negative", "No Action Needed", "New and Null"],
+        "answer": "Not a Number",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "Which operator is used for strict equality in JavaScript?",
+        "options": ["==", "=", "===", "!="],
+        "answer": "===",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What is a closure in JavaScript?",
+        "options": ["A function inside another function that has access to the outer function's variables", "A way to define object properties", "A type of loop", "A method for handling errors"],
+        "answer": "A function inside another function that has access to the outer function's variables",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What is the difference between `let`, `const`, and `var`?",
+        "options": ["`var` is function scoped, `let` and `const` are block scoped. `const` cannot be reassigned.", "`let` is function scoped, `var` and `const` are block scoped. `const` can be reassigned.", "They are interchangeable.", "`const` is function scoped, `let` and `var` are block scoped. `let` cannot be reassigned."],
+        "answer": "`var` is function scoped, `let` and `const` are block scoped. `const` cannot be reassigned.",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What will `console.log(1 + '1')` output?",
+        "options": ["2", "11", "Error", "NaN"],
+        "answer": "11",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What is the purpose of the `this` keyword in JavaScript?",
+        "options": ["It refers to the object the function is a method of.", "It refers to the global object.", "It refers to the function itself.", "It is used for comments."],
+        "answer": "It refers to the object the function is a method of.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What is the difference between `null` and `undefined` in JavaScript?",
+        "options": ["`null` is an intentional absence of a value, `undefined` means a variable has been declared but not assigned a value.", "`undefined` is an intentional absence of a value, `null` means a variable has been declared but not assigned a value.", "They are interchangeable.", "`null` is a primitive type, `undefined` is an object."],
+        "answer": "`null` is an intentional absence of a value, `undefined` means a variable has been declared but not assigned a value.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What is the purpose of the `typeof` operator?",
+        "options": ["To determine the data type of a variable.", "To convert a variable to a string.", "To check if a variable is defined.", "To create a new variable."],
+        "answer": "To determine the data type of a variable.",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What is a callback function in JavaScript?",
+        "options": ["A function passed as an argument to another function, to be executed later.", "A function that returns a value.", "A function that handles errors.", "A function that creates objects."],
+        "answer": "A function passed as an argument to another function, to be executed later.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What is an Immediately Invoked Function Expression (IIFE)?",
+        "options": ["A function that is executed as soon as it is defined.", "A function that is called after a delay.", "A function that is called repeatedly.", "A function that is used for event handling."],
+        "answer": "A function that is executed as soon as it is defined.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "Which method is used to add an element to the end of an array?",
+        "options": [".push()", ".pop()", ".shift()", ".unshift()"],
+        "answer": ".push()",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "Which method is used to remove the last element from an array?",
+        "options": [".pop()", ".push()", ".shift()", ".splice()"],
+        "answer": ".pop()",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What does the `JSON.parse()` method do?",
+        "options": ["Parses a JSON string and converts it into a JavaScript object.", "Converts a JavaScript object into a JSON string.", "Validates a JSON string.", "Formats a JSON string."],
+        "answer": "Parses a JSON string and converts it into a JavaScript object.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What does the `JSON.stringify()` method do?",
+        "options": ["Converts a JavaScript object into a JSON string.", "Parses a JSON string and converts it into a JavaScript object.", "Validates a JSON string.", "Formats a JSON string."],
+        "answer": "Converts a JavaScript object into a JSON string.",
+        "difficulty": "Normal"
+      },
+        {
+        "question": "What is the purpose of the `map()` method for arrays?",
+        "options": ["Creates a new array with the results of calling a provided function on every element in the calling array.", "Filters an array based on a condition.", "Reduces an array to a single value.", "Sorts an array."],
+        "answer": "Creates a new array with the results of calling a provided function on every element in the calling array.",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "Which feature of the web storage API allows data to persist in the browser even if the tab is closed?",
+        "options": ["Local storage", "Session storage", "Cookies", "Cache storage"],
+        "answer": "Local storage",
+        "difficulty": "Normal"
+      },
+      {
+        "question": "What is the main difference between array.map() and array.forEach()?",
+        "options": ["map returns a new array, foreach does not", "foreach is faster than map", "map only works with numeric values", "there is no difference"],
+        "answer": "map returns a new array, foreach does not",
+        "difficulty": "Normal"
+      }
+    ]

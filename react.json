@@ -1,0 +1,104 @@
+[
+  {
+    "question": "What is JSX in React?",
+    "options": ["A syntax extension to JavaScript that allows writing HTML-like code", "A templating engine", "A state management library", "A routing library"],
+    "answer": "A syntax extension to JavaScript that allows writing HTML-like code",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `useState` hook in React?",
+    "options": ["To manage state in functional components", "To perform side effects", "To manage component lifecycle", "To handle events"],
+    "answer": "To manage state in functional components",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a React component?",
+    "options": ["A reusable piece of UI", "A JavaScript function", "An HTML element", "A CSS style"],
+    "answer": "A reusable piece of UI",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `props` in React?",
+    "options": ["To pass data from parent components to child components", "To manage state within a component", "To handle events", "To define styles"],
+    "answer": "To pass data from parent components to child components",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the virtual DOM in React?",
+    "options": ["A lightweight copy of the real DOM", "A browser API", "A server-side rendering technique", "A state management library"],
+    "answer": "A lightweight copy of the real DOM",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `useEffect` hook?",
+    "options": ["To perform side effects in functional components", "To manage state", "To render components", "To handle events"],
+    "answer": "To perform side effects in functional components",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between controlled and uncontrolled components?",
+    "options": ["Controlled components have their data handled by React state, uncontrolled components have their data handled by the DOM.", "Uncontrolled components have their data handled by React state, controlled components have their data handled by the DOM.", "Controlled components are functional, uncontrolled are class-based.", "There is no difference."],
+    "answer": "Controlled components have their data handled by React state, uncontrolled components have their data handled by the DOM.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a key prop used for in React lists?",
+    "options": ["To uniquely identify list items", "To style list items", "To sort list items", "To filter list items"],
+    "answer": "To uniquely identify list items",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of React Router?",
+    "options": ["To handle navigation between different views in a React application", "To manage state", "To perform API requests", "To style components"],
+    "answer": "To handle navigation between different views in a React application",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between `React.Component` and functional components with hooks?",
+    "options": ["`React.Component` is class-based, functional components use hooks for state and lifecycle management.", "Functional components are class-based, `React.Component` uses hooks for state and lifecycle management.", "They are completely interchangeable.", "`React.Component` is for complex components, functional components are for simple components."],
+    "answer": "`React.Component` is class-based, functional components use hooks for state and lifecycle management.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `useContext` hook?",
+    "options": ["To provide a way to pass data through the component tree without having to pass props down manually at every level.", "To manage local state within a component.", "To perform side effects.", "To optimize rendering performance."],
+    "answer": "To provide a way to pass data through the component tree without having to pass props down manually at every level.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `useRef` hook?",
+    "options": ["To access a DOM element directly or to store mutable values that don't cause re-renders.", "To manage component state.", "To perform side effects.", "To optimize performance."],
+    "answer": "To access a DOM element directly or to store mutable values that don't cause re-renders.",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is prop drilling and how can it be avoided?",
+    "options": ["Passing props down multiple levels of components; can be avoided with Context API or state management libraries.", "A technique for optimizing rendering performance; can be avoided by using shouldComponentUpdate.", "A way to pass data between sibling components; can be avoided with lifting state up.", "A method for handling events; can be avoided with event delegation."],
+    "answer": "Passing props down multiple levels of components; can be avoided with Context API or state management libraries.",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is the purpose of `memo` in React?",
+    "options": ["It is a higher-order component that memoizes a component, preventing re-renders if the props have not changed.", "It is a hook that manages component state.", "It is a function for performing side effects.", "It is a utility for styling components."],
+    "answer": "It is a higher-order component that memoizes a component, preventing re-renders if the props have not changed.",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What are React Fragments used for?",
+    "options": ["To group multiple elements without adding an extra node to the DOM.", "To create reusable components.", "To manage component state.", "To handle events."],
+    "answer": "To group multiple elements without adding an extra node to the DOM.",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which concept in React allows components inside a provider to share state?",
+    "options": ["context", "effects", "React server components", "suspense"],
+    "answer": "context",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "When the server-side rendered html and the client-rendered dom don't match, what is the name of this beverage-themed bug?",
+    "options": ["dom spillage", "hydration mismatch", "fizzy failure", "dom pour"],
+    "answer": "hydration mismatch",
+    "difficulty": "Normal"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "question": "What is the main purpose of htmx?",
+    "options": ["To allow access to AJAX, WebSockets and Server Sent Events directly in HTML", "To create complex UI animations", "To manage client-side state", "To replace JavaScript entirely"],
+    "answer": "To allow access to AJAX, WebSockets and Server Sent Events directly in HTML",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which htmx attribute is used to trigger an HTTP request?",
+    "options": ["hx-get", "hx-post", "hx-put", "All of the above"],
+    "answer": "All of the above",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which htmx attribute is used to trigger an HTTP GET request?",
+    "options": ["hx-get", "hx-post", "hx-put", "hx-delete"],
+    "answer": "hx-get",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which htmx attribute is used to trigger an HTTP POST request?",
+    "options": ["hx-post", "hx-get", "hx-put", "hx-delete"],
+    "answer": "hx-post",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does the `hx-target` attribute do?",
+    "options": ["Specifies the element to be updated with the response", "Specifies the URL to send the request to", "Specifies the HTTP method", "Specifies the event that triggers the request"],
+    "answer": "Specifies the element to be updated with the response",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `hx-swap`?",
+    "options": ["Defines how the response is swapped into the target element", "Defines the HTTP method for the request", "Defines the URL for the request", "Defines the event that triggers the request"],
+    "answer": "Defines how the response is swapped into the target element",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which `hx-swap` value replaces the entire target element?",
+    "options": ["innerHTML", "outerHTML", "beforebegin", "afterend"],
+    "answer": "outerHTML",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which `hx-swap` value inserts the response before the target element?",
+    "options": ["beforebegin", "afterbegin", "beforeend", "afterend"],
+    "answer": "beforebegin",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which `hx-swap` value inserts the response after the target element?",
+    "options": ["afterend", "beforebegin", "afterbegin", "beforeend"],
+    "answer": "afterend",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does the `hx-trigger` attribute do?",
+    "options": ["Specifies the event that triggers the request", "Specifies the URL for the request", "Specifies the target element", "Specifies the HTTP method"],
+    "answer": "Specifies the event that triggers the request",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which `hx-trigger` value triggers the request on a click?",
+    "options": ["click", "load", "submit", "change"],
+    "answer": "click",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does the `hx-indicator` attribute do?",
+    "options": ["Specifies an element to show while the request is in progress", "Specifies the URL for the request", "Specifies the target element", "Specifies the HTTP method"],
+    "answer": "Specifies an element to show while the request is in progress",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which attribute allows you to include data from other elements in the request?",
+    "options": ["hx-include", "hx-vals", "hx-params", "hx-headers"],
+    "answer": "hx-include",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does `hx-boost` do?",
+    "options": ["Makes links and forms use AJAX", "Prevents caching of responses", "Sets a timeout for requests", "Defines the HTTP method"],
+    "answer": "Makes links and forms use AJAX",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of `hx-push-url`?",
+    "options": ["Updates the browser's URL history", "Sends data to the server", "Triggers an event", "Swaps content in the DOM"],
+    "answer": "Updates the browser's URL history",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does the `hx-confirm` attribute do?",
+    "options": ["Displays a confirmation dialog before making the request", "Sends data to the server", "Triggers an event", "Swaps content in the DOM"],
+    "answer": "Displays a confirmation dialog before making the request",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "htmx primarily focuses on enhancing which aspect of web development?",
+    "options": ["Frontend interactivity with minimal JavaScript", "Backend server performance", "Database management", "CSS styling"],
+    "answer": "Frontend interactivity with minimal JavaScript",
+    "difficulty": "Normal"
+  }
+]

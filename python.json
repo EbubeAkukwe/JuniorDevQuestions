@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the primary purpose of the `__init__` method in a Python class?",
+    "options": ["To create a new instance of the class", "To initialize the attributes of an object", "To delete an object", "To define class-level variables"],
+    "answer": "To initialize the attributes of an object",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the difference between a list and a tuple in Python?",
+    "options": ["Lists are mutable, tuples are immutable", "Lists are faster than tuples", "Tuples can store different data types, lists cannot", "There is no difference"],
+    "answer": "Lists are mutable, tuples are immutable",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "Which of these is the correct way to open a file for reading in Python?",
+    "options": ["open('file.txt', 'r')", "open('file.txt', 'w')", "open('file.txt', 'a')", "open('file.txt', 'x')"],
+    "answer": "open('file.txt', 'r')",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What does the `*args` parameter in a function definition do?",
+    "options": ["It allows the function to accept a variable number of positional arguments", "It allows the function to accept a variable number of keyword arguments", "It defines a default value for an argument", "It is used for docstrings"],
+    "answer": "It allows the function to accept a variable number of positional arguments",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the output of `print(type([1,2,3]))`?",
+    "options": ["<class 'tuple'>", "<class 'list'>", "<class 'array'>", "<class 'int'>"],
+    "answer": "<class 'list'>",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What is a dictionary in Python?",
+    "options": ["A collection of key-value pairs", "An ordered sequence of items", "A set of unique elements", "A data type for storing integers"],
+    "answer": "A collection of key-value pairs",
+    "difficulty": "Normal"
+  },
+    {
+    "question": "What does the `**kwargs` parameter in a function definition do?",
+    "options": ["It allows the function to accept a variable number of keyword arguments", "It allows the function to accept a variable number of positional arguments", "It defines a default value for a parameter", "It is used for docstrings"],
+    "answer": "It allows the function to accept a variable number of keyword arguments",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a lambda function in Python?",
+    "options": ["An anonymous function", "A recursive function", "A function that takes no arguments", "A function that returns no value"],
+    "answer": "An anonymous function",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is the purpose of the `try...except` block in Python?",
+    "options": ["To handle exceptions", "To define loops", "To define functions", "To import modules"],
+    "answer": "To handle exceptions",
+    "difficulty": "Normal"
+  },
+  {
+    "question": "What is a decorator in Python?",
+    "options": ["A way to modify or enhance functions", "A type of loop", "A way to define classes", "A way to handle files"],
+    "answer": "A way to modify or enhance functions",
+    "difficulty": "Normal"
+  },
+    {
+        "question": "What does the `//` operator do in Python?",
+        "options": ["Floor division (integer division)", "Regular division", "Modulo operator", "Exponentiation"],
+        "answer": "Floor division (integer division)",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the purpose of the `with` statement in Python?",
+        "options": ["To manage resources like files and ensure proper cleanup", "To define loops", "To handle exceptions", "To define functions"],
+        "answer": "To manage resources like files and ensure proper cleanup",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is a generator in Python?",
+        "options": ["A function that produces a sequence of values using `yield`", "A type of loop", "A way to define classes", "A way to handle files"],
+        "answer": "A function that produces a sequence of values using `yield`",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the difference between `==` and `is` in Python?",
+        "options": ["`==` checks for value equality, `is` checks for object identity", "`is` checks for value equality, `==` checks for object identity", "They are interchangeable", "`==` is for numbers, `is` is for strings"],
+        "answer": "`==` checks for value equality, `is` checks for object identity",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the purpose of the `__name__ == '__main__'` block?",
+        "options": ["To allow a Python file to be run as a script or imported as a module", "To define the main function of a program", "To handle exceptions", "To import modules"],
+        "answer": "To allow a Python file to be run as a script or imported as a module",
+        "difficulty": "Normal"
+    }
+]

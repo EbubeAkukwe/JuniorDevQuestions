@@ -1,0 +1,116 @@
+[
+    {
+      "question": "Which data structure uses a Last-In, First-Out (LIFO) principle?",
+      "options": ["Stack", "Queue", "Linked List", "Tree"],
+      "answer": "Stack",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which data structure uses a First-In, First-Out (FIFO) principle?",
+      "options": ["Queue", "Stack", "Linked List", "Graph"],
+      "answer": "Queue",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the time complexity of searching in a balanced binary search tree?",
+      "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+      "answer": "O(log n)",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the time complexity of finding any element in an array by index, e.g array[0]?",
+      "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+      "answer": "O(1)",
+      "difficulty": "Normal"
+    },
+      {
+      "question": "Which sorting algorithm has an average time complexity of O(n log n)?",
+      "options": ["Merge Sort", "Bubble Sort", "Insertion Sort", "Selection Sort"],
+      "answer": "Merge Sort",
+      "difficulty": "Normal"
+    },
+      {
+      "question": "What is a hash table?",
+      "options": ["A data structure that uses a hash function to map keys to values", "A type of linked list", "A sorting algorithm", "A searching algorithm"],
+      "answer": "A data structure that uses a hash function to map keys to values",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which data structure uses a Last-In, First-Out (LIFO) principle?",
+      "options": ["Stack", "Queue", "Linked List", "Tree"],
+      "answer": "Stack",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which data structure uses a First-In, First-Out (FIFO) principle?",
+      "options": ["Queue", "Stack", "Linked List", "Graph"],
+      "answer": "Queue",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the time complexity of searching in a balanced binary search tree?",
+      "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+      "answer": "O(log n)",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the time complexity of searching in a linked list?",
+      "options": ["O(n)", "O(1)", "O(log n)", "O(n log n)"],
+      "answer": "O(n)",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which data structure is best suited for implementing a priority queue?",
+      "options": ["Heap", "Stack", "Queue", "Linked List"],
+      "answer": "Heap",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is a graph data structure?",
+      "options": ["A collection of nodes connected by edges", "A linear collection of elements", "A hierarchical data structure", "A key-value store"],
+      "answer": "A collection of nodes connected by edges",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "Which algorithm is used to find the shortest path in a weighted graph?",
+      "options": ["Dijkstra's algorithm", "Breadth-First Search (BFS)", "Depth-First Search (DFS)", "Binary Search"],
+      "answer": "Dijkstra's algorithm",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the space complexity of an algorithm?",
+      "options": ["The amount of memory used by the algorithm", "The time taken by the algorithm", "The number of lines of code in the algorithm", "The programming language used to implement the algorithm"],
+      "answer": "The amount of memory used by the algorithm",
+      "difficulty": "Normal"
+    },
+    {
+      "question": "What is the difference between BFS and DFS?",
+      "options": ["BFS explores the graph level by level, DFS explores as far as possible along each branch before backtracking.", "DFS explores the graph level by level, BFS explores as far as possible along each branch before backtracking.", "BFS uses a stack, DFS uses a queue.", "DFS is faster than BFS."],
+      "answer": "BFS explores the graph level by level, DFS explores as far as possible along each branch before backtracking.",
+      "difficulty": "Normal"
+    },
+      {
+          "question": "What is the time complexity of the binary search algorithm?",
+          "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+          "answer": "O(log n)",
+          "difficulty": "Normal"
+      },
+      {
+          "question": "What is a collision in a hash table?",
+          "options": ["When two different keys map to the same index", "When the hash table is full", "When an element is deleted from the hash table", "When the hash function returns an error"],
+          "answer": "When two different keys map to the same index",
+          "difficulty": "Normal"
+      },
+      {
+          "question": "Which data structure is often used to implement an undo/redo feature?",
+          "options": ["Stack", "Queue", "Linked List", "Array"],
+          "answer": "Stack",
+          "difficulty": "Normal"
+      },
+        {
+          "question": "What is the purpose of a trie (prefix tree)?",
+          "options": ["Efficient prefix searching and storage of strings", "Sorting numbers", "Implementing a hash table", "Representing a graph"],
+          "answer": "Efficient prefix searching and storage of strings",
+          "difficulty": "Normal"
+      }
+  ]
