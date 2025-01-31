@@ -1,164 +1,164 @@
 [
   {
     "question": "Which tag is used to define a hyperlink in HTML?",
-    "options": ["<a>", "<link>", "<href>", "<url>"],
-    "answer": "<a>",
+    "options": ["&lt;a&gt;", "&lt;link&gt;", "&lt;href&gt;", "&lt;url&gt;"],
+    "answer": "&lt;a&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to display an image in HTML?",
-    "options": ["<img>", "<picture>", "<image>", "<src>"],
-    "answer": "<img>",
+    "options": ["&lt;img&gt;", "&lt;picture&gt;", "&lt;image&gt;", "&lt;src&gt;"],
+    "answer": "&lt;img&gt;",
     "difficulty": "Normal"
   },
   {
-    "question": "What does the `alt` attribute in an `<img>` tag do?",
+    "question": "What does the `alt` attribute in an `&lt;img&gt;` tag do?",
     "options": ["Provides alternative text for the image if it cannot be displayed", "Sets the alignment of the image", "Specifies the image source", "Sets the image width and height"],
     "answer": "Provides alternative text for the image if it cannot be displayed",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to create an ordered list in HTML?",
-    "options": ["<ol>", "<ul>", "<li>", "<dl>"],
-    "answer": "<ol>",
+    "options": ["&lt;ol&gt;", "&lt;ul&gt;", "&lt;li&gt;", "&lt;dl&gt;"],
+    "answer": "&lt;ol&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "What is the correct HTML for inserting a line break?",
-    "options": ["<br>", "<lb>", "<newline>", "<break>"],
-    "answer": "<br>",
+    "options": ["&lt;br&gt;", "&lt;lb&gt;", "&lt;newline&gt;", "&lt;break&gt;"],
+    "answer": "&lt;br&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a table in HTML?",
-    "options": ["<table>", "<grid>", "<data>", "<layout>"],
-    "answer": "<table>",
+    "options": ["&lt;table&gt;", "&lt;grid&gt;", "&lt;data&gt;", "&lt;layout&gt;"],
+    "answer": "&lt;table&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a table row?",
-    "options": ["<tr>", "<row>", "<tablerow>", "<line>"],
-    "answer": "<tr>",
+    "options": ["&lt;tr&gt;", "&lt;row&gt;", "&lt;tablerow&gt;", "&lt;line&gt;"],
+    "answer": "&lt;tr&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a table header cell?",
-    "options": ["<th>", "<td>", "<head>", "<cell>"],
-    "answer": "<th>",
+    "options": ["&lt;th&gt;", "&lt;td&gt;", "&lt;head&gt;", "&lt;cell&gt;"],
+    "answer": "&lt;th&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a table data cell?",
-    "options": ["<td>", "<th>", "<data>", "<cell>"],
-    "answer": "<td>",
+    "options": ["&lt;td&gt;", "&lt;th&gt;", "&lt;data&gt;", "&lt;cell&gt;"],
+    "answer": "&lt;td&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to create an unordered list in HTML?",
-    "options": ["<ul>", "<ol>", "<li>", "<dl>"],
-    "answer": "<ul>",
+    "options": ["&lt;ul&gt;", "&lt;ol&gt;", "&lt;li&gt;", "&lt;dl&gt;"],
+    "answer": "&lt;ul&gt;",
     "difficulty": "Normal"
   },
     {
     "question": "Which tag is used to define a list item?",
-    "options": ["<li>", "<item>", "<listitem>", "<element>"],
-    "answer": "<li>",
+    "options": ["&lt;li&gt;", "&lt;item&gt;", "&lt;listitem&gt;", "&lt;element&gt;"],
+    "answer": "&lt;li&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a paragraph in HTML?",
-    "options": ["<p>", "<paragraph>", "<text>", "<line>"],
-    "answer": "<p>",
+    "options": ["&lt;p&gt;", "&lt;paragraph&gt;", "&lt;text&gt;", "&lt;line&gt;"],
+    "answer": "&lt;p&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define the title of an HTML document?",
-    "options": ["<title>", "<head>", "<header>", "<doctitle>"],
-    "answer": "<title>",
+    "options": ["&lt;title&gt;", "&lt;head&gt;", "&lt;header&gt;", "&lt;doctitle&gt;"],
+    "answer": "&lt;title&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to link to an external stylesheet?",
-    "options": ["<link>", "<style>", "<css>", "<stylesheet>"],
-    "answer": "<link>",
+    "options": ["&lt;link&gt;", "&lt;style&gt;", "&lt;css&gt;", "&lt;stylesheet&gt;"],
+    "answer": "&lt;link&gt;",
     "difficulty": "Normal"
   },
     {
     "question": "Which tag represents the root of an HTML document?",
-    "options": ["<html>", "<root>", "<doc>", "<document>"],
-    "answer": "<html>",
+    "options": ["&lt;html&gt;", "&lt;root&gt;", "&lt;doc&gt;", "&lt;document&gt;"],
+    "answer": "&lt;html&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to create an unordered list?",
-    "options": ["<ul>", "<ol>", "<li>", "<dl>"],
-    "answer": "<ul>",
+    "options": ["&lt;ul&gt;", "&lt;ol&gt;", "&lt;li&gt;", "&lt;dl&gt;"],
+    "answer": "&lt;ul&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to create an ordered list?",
-    "options": ["<ol>", "<ul>", "<li>", "<dl>"],
-    "answer": "<ol>",
+    "options": ["&lt;ol&gt;", "&lt;ul&gt;", "&lt;li&gt;", "&lt;dl&gt;"],
+    "answer": "&lt;ol&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a list item within a list?",
-    "options": ["<li>", "<item>", "<list>", "<liitem>"],
-    "answer": "<li>",
+    "options": ["&lt;li&gt;", "&lt;item&gt;", "&lt;list&gt;", "&lt;liitem&gt;"],
+    "answer": "&lt;li&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a description list?",
-    "options": ["<dl>", "<dt>", "<dd>", "<list>"],
-    "answer": "<dl>",
+    "options": ["&lt;dl&gt;", "&lt;dt&gt;", "&lt;dd&gt;", "&lt;list&gt;"],
+    "answer": "&lt;dl&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Within a description list, which tag defines the term?",
-    "options": ["<dt>", "<dd>", "<dlterm>", "<term>"],
-    "answer": "<dt>",
+    "options": ["&lt;dt&gt;", "&lt;dd&gt;", "&lt;dlterm&gt;", "&lt;term&gt;"],
+    "answer": "&lt;dt&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Within a description list, which tag defines the description of a term?",
-    "options": ["<dd>", "<dt>", "<dldesc>", "<desc>"],
-    "answer": "<dd>",
+    "options": ["&lt;dd&gt;", "&lt;dt&gt;", "&lt;dldesc&gt;", "&lt;desc&gt;"],
+    "answer": "&lt;dd&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to embed an external resource, like an image or video?",
-    "options": ["<embed>", "<img>", "<object>", "<source>"],
-    "answer": "<embed>",
+    "options": ["&lt;embed&gt;", "&lt;img&gt;", "&lt;object&gt;", "&lt;source&gt;"],
+    "answer": "&lt;embed&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define an inline frame (iframe)?",
-    "options": ["<iframe>", "<frame>", "<inlineframe>", "<embedframe>"],
-    "answer": "<iframe>",
+    "options": ["&lt;iframe&gt;", "&lt;frame&gt;", "&lt;inlineframe&gt;", "&lt;embedframe&gt;"],
+    "answer": "&lt;iframe&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define a section in a document, often used for styling or scripting?",
-    "options": ["<div>", "<section>", "<article>", "<part>"],
-    "answer": "<div>",
+    "options": ["&lt;div&gt;", "&lt;section&gt;", "&lt;article&gt;", "&lt;part&gt;"],
+    "answer": "&lt;div&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag represents independent, self-contained content that could be distributed or reused?",
-    "options": ["<article>", "<div>", "<section>", "<aside>"],
-    "answer": "<article>",
+    "options": ["&lt;article&gt;", "&lt;div&gt;", "&lt;section&gt;", "&lt;aside&gt;"],
+    "answer": "&lt;article&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag represents a thematic grouping of content, typically with a heading?",
-    "options": ["<section>", "<article>", "<div>", "<group>"],
-    "answer": "<section>",
+    "options": ["&lt;section&gt;", "&lt;article&gt;", "&lt;div&gt;", "&lt;group&gt;"],
+    "answer": "&lt;section&gt;",
     "difficulty": "Normal"
   },
   {
     "question": "Which tag is used to define content aside from the content it is placed in (like a sidebar)?",
-    "options": ["<aside>", "<sidebar>", "<div>", "<complementary>"],
-    "answer": "<aside>",
+    "options": ["&lt;aside&gt;", "&lt;sidebar&gt;", "&lt;div&gt;", "&lt;complementary&gt;"],
+    "answer": "&lt;aside&gt;",
     "difficulty": "Normal"
   }
 ]
